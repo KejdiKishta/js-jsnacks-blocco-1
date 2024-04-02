@@ -13,5 +13,5 @@ let num10 = parseInt(prompt("inserisci un numero"));
 //* creo una variabile con la somma dei numeri inseriti
 let somma = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10;
 
-//*il programma stampa la somma di tutti i numeri
+//* il programma stampa la somma di tutti i numeri
 console.log("La somma dei numeri inseriti è " + somma);
