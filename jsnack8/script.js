@@ -13,7 +13,7 @@ if (userNum < 1000 || isNaN(userNum)) {
         //? ogni cifra del numero viene sommata a quelle precedenti
         num += parseInt(userNum[i]);
     }
-    //*stampa somma finale
+    //* stampa somma finale
     console.log("la somma dei numeri da te inseriti è " + num)
 }
 
