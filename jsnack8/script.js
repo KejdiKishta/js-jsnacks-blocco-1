@@ -16,6 +16,3 @@ if (userNum < 1000 || isNaN(userNum)) {
     //* stampa somma finale
     console.log("la somma dei numeri da te inseriti è " + num)
 }
-
-
-
